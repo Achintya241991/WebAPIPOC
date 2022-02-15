@@ -10,6 +10,6 @@ namespace MyWebAPIDeal.Models
     {
         public long ClientId { get; set; }
         public string ClientName { get; set; }
-        public long DealValueInDollars { get; set; }
+        public long DealValue { get; set; }
     }
 }
